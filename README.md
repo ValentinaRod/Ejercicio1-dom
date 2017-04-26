@@ -1,3 +1,3 @@
 # Ejercicio2-dom
 
-trabajo1
+trabajo2
